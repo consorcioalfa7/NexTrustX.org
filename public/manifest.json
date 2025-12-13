@@ -1,0 +1,86 @@
+{
+  "name": "NexTrustX - Ecossistema Digital",
+  "short_name": "NexTrustX",
+  "description": "Três mundos, uma só plataforma. Finanças, Crypto e Tecnologia conectados para você.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#9B4DFF",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "pt-BR",
+  "categories": ["finance", "business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Market",
+      "short_name": "Market",
+      "description": "Acessar Market Consórcio Alfa7",
+      "url": "/#market",
+      "icons": [
+        {
+          "src": "https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Exchange",
+      "short_name": "Exchange",
+      "description": "Acessar NexTrustX Exchange",
+      "url": "/#exchange",
+      "icons": [
+        {
+          "src": "https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Labs",
+      "short_name": "Labs",
+      "description": "Acessar Ghost-0 Labs",
+      "url": "/#labs",
+      "icons": [
+        {
+          "src": "https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "NexTrustX Desktop"
+    },
+    {
+      "src": "https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "NexTrustX Mobile"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 400
+  }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png"/>
+            <square150x150logo src="https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png"/>
+            <wide310x150logo src="https://res.cloudinary.com/dhwqfkhzm/image/upload/v1762880113/NexTrustX_Logo_n29ku9.png"/>
+            <TileColor>#9B4DFF</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
