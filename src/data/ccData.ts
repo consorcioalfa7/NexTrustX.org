@@ -22,32 +22,8 @@ export const ccData: CCConsultavel[] = [
     "level": "PLATINUM",
     "cpf": "SEM CPF",
     "nome": "COM NOME",
-    "limiteDisponivel": "3.976,55",
+    "limiteDisponivel": "2.966,55",
     "limiteTotal": "7.520,00",
-    "preco": "225,00",
-    "pais": "Brasil",
-    "status": "ativo"
-  },
-  {
-    "bin": "477176",
-    "banco": "ITAU UNIBANCO HOLDING, S.A.",
-    "level": "INFINITE",
-    "cpf": "SEM CPF",
-    "nome": "COM NOME",
-    "limiteDisponivel": "10.759,00",
-    "limiteTotal": "15.000,00",
-    "preco": "225,00",
-    "pais": "Brasil",
-    "status": "ativo"
-  },
-  {
-    "bin": "523432",
-    "banco": "ITAU UNIBANCO, S.A.",
-    "level": "BLACK",
-    "cpf": "SEM CPF",
-    "nome": "COM NOME",
-    "limiteDisponivel": "8.918,77",
-    "limiteTotal": "10.000,00",
     "preco": "225,00",
     "pais": "Brasil",
     "status": "ativo"
