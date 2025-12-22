@@ -496,18 +496,6 @@ export const ccData: CCConsultavel[] = [
     "pais": "Brasil",
     "status": "ativo"
   }
-  {
-    "bin": "0000",
-    "banco": "Contactar para Mais",
-    "level": "DIVERSAS",
-    "cpf": "SEM CPF",
-    "nome": "COM NOME",
-    "limiteDisponivel": "0000",
-    "limiteTotal": "0000",
-    "preco": "000",
-    "pais": "Brasil",
-    "status": "ativo"
-  }
 ];
 
 // Função para atualizar dados facilmente
